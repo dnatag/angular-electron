@@ -55,6 +55,8 @@
     "@types/node": "7.0.18",
     "autoprefixer": "6.7.7",
     "codelyzer": "3.0.1",
+    "@types/electron": "^1.6.10",
+    "angular2-template-loader": "^0.6.2",
     "concurrently": "^3.4.0",
     "copyfiles": "1.2.0",
     "cross-env": "4.0.0",
@@ -94,6 +96,7 @@
     "tslint": "5.1.0",
     "typescript": "2.3.3",
     "url-loader": "0.5.8",
+    "wallaby-webpack": "0.0.38",
     "webdriver-manager": "12.0.4",
     "webpack": "2.4.1",
     "webpack-dev-server": "2.4.5"
